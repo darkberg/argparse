@@ -50,6 +50,7 @@ SOFTWARE.
 #include <type_traits>
 #include <variant>
 #include <vector>
+#include <utility>
 
 namespace argparse {
 
